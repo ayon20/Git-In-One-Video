@@ -1,0 +1,1 @@
+    printf("\nThe size of structure is %d",sizeof(movie_star));
