@@ -16,15 +16,3 @@ class ayon
         cout<<a<<" "<<b<<" "<<t<<" "<<ty<<endl;
     }
 };
-int main()
-
-{
-ios_base ::sync_with_stdio(0);
-cin.tie(0);
-cout.tie(0);
-
-int a=9834;
-string b="ayonghoshajoyghosh";
-ayon ay= ayon(a,b);
-return 0;
-}
