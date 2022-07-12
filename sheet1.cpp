@@ -27,4 +27,10 @@ int a=9834;
 string b="ayonghoshajoyghosh";
 ayon ay= ayon(a,b);
 return 0;
+<<<<<<< HEAD
 }
+=======
+}
+fuck of 
+the whole world
+>>>>>>> feature1
