@@ -29,3 +29,4 @@ ayon ay= ayon(a,b);
 return 0;
 }
 fuck of 
+the whole world
